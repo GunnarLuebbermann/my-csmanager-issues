@@ -11,10 +11,10 @@ After you shared your screen, you can use the Shortcuts below to start / stop re
 
 You can also use this extension to set next / prev nades within the utility learning mode. [NADE RUN]
 
-[Ctrl+Shift+5] -> Start Recording / Prev Util (nade run).
-[Ctrl+Shift+6] -> Stop Recording / Next Util (nade run).
-[Ctrl+Shift+7] -> Accept Recording / Show solution (nade run).
-[Ctrl+Shift+8] -> Retry Recording.
+[Ctrl+Shift+5] -> Start Recording / Prev Util (nade run).<br>
+[Ctrl+Shift+6] -> Stop Recording / Next Util (nade run).<br>
+[Ctrl+Shift+7] -> Accept Recording / Show solution (nade run).<br>
+[Ctrl+Shift+8] -> Retry Recording.<br>
 
 ## Installation
 
