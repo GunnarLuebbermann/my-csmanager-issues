@@ -3,7 +3,7 @@ This is a repository to write down issues and features for [my-csmanager](https:
 
 # CS Manager Shortcut Extension
 
-## Explanaition
+## Explanation
 
 This Extension helps to Record your Util in an elegant way.
 
